@@ -1,0 +1,14 @@
+{
+  "name": "bonfire",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rodrigo Medeiros <rodrigo.mangue@gmail.com> (https://github.com/rodrigo-medeiros)",
+  "license": "MIT",
+  "devDependencies": {
+    "tape": "4.2.2"
+  }
+}
