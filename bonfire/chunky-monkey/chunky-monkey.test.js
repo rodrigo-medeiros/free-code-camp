@@ -1,5 +1,5 @@
 var test = require("tape");
-var chunk = require("./chunky-monkey.js");
+var chunk = require("./chunky-monkey");
 
 test("Chunk Monkey test", function (t) {
   t.plan(4);
